@@ -21,6 +21,9 @@ gensim>=4.3.0
 # Machine Learning
 scikit-learn>=1.4.0
 
+# Graph analysis
+networkx>=3.0
+
 # Optional compatibility helpers
 scipy>=1.11.0
 
